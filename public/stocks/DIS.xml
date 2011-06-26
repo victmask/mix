@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Viktoryia Maskevich
+vmaskevi@my.smccd.edu
+CIS 114
+CAT.xml
+Midterm 2
+04/15/2011
+-->
+  <string xmlns="http://www.webserviceX.NET/"><StockQuotes><Stock><Symbol>DIS</Symbol><Last>41.02</Last><Date>4/14/2011</Date><Time>4:00pm</Time><Change>0.00</Change><Open>N/A</Open><High>N/A</High><Low>N/A</Low><Volume>0</Volume><MktCap>77.900B</MktCap><PreviousClose>41.02</PreviousClose><PercentageChange>0.00%</PercentageChange><AnnRange>30.72 - 44.34</AnnRange><Earns>2.266</Earns><P-E>18.10</P-E><Name>Walt Disney Compa</Name></Stock></StockQuotes></string> 

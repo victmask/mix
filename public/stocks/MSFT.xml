@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Viktoryia Maskevich
+vmaskevi@my.smccd.edu
+CIS 114
+MSFT.xml
+Midterm 2
+04/15/2011
+-->
+  <string xmlns="http://www.webserviceX.NET/"><StockQuotes><Stock><Symbol>MSFT</Symbol><Last>25.42</Last><Date>4/14/2011</Date><Time>4:00pm</Time><Change>0.00</Change><Open>N/A</Open><High>N/A</High><Low>N/A</Low><Volume>0</Volume><MktCap>213.6B</MktCap><PreviousClose>25.42</PreviousClose><PercentageChange>0.00%</PercentageChange><AnnRange>22.73 - 31.58</AnnRange><Earns>2.343</Earns><P-E>10.85</P-E><Name>Microsoft Corpora</Name></Stock></StockQuotes></string> 

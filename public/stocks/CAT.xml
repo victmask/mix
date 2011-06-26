@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Viktoryia Maskevich
+vmaskevi@my.smccd.edu
+CIS 114
+CAT.xml
+Midterm 2
+04/15/2011
+-->
+  <string xmlns="http://www.webserviceX.NET/"><StockQuotes><Stock><Symbol>CAT</Symbol><Last>107.58</Last><Date>4/14/2011</Date><Time>4:00pm</Time><Change>0.00</Change><Open>N/A</Open><High>N/A</High><Low>N/A</Low><Volume>0</Volume><MktCap>68.724B</MktCap><PreviousClose>107.58</PreviousClose><PercentageChange>0.00%</PercentageChange><AnnRange>54.89 - 113.93</AnnRange><Earns>4.15</Earns><P-E>25.92</P-E><Name>Caterpillar</Name></Stock></StockQuotes></string> 

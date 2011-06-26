@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Viktoryia Maskevich
+vmaskevi@my.smccd.edu
+CIS 114
+stock.xml
+Midterm 2
+04/11/2011
+-->
+<stocks>
+  <hot>
+    <stock>AAPL</stock>
+    <stock>LUV</stock>
+    <stock>GOOG</stock>
+    <stock>FDX</stock>
+    <stock>TM</stock>
+    <stock>STO</stock>
+  </hot>
+  <cold>
+    <stock>HSY</stock>
+    <stock>WIN</stock>
+    <stock>MRK</stock>
+    <stock>AMGN</stock>
+    <stock>BBY</stock>
+    <stock>ADP</stock>
+  </cold>
+  <safe>
+    <stock>KO</stock>
+    <stock>CAT</stock>
+    <stock>DIS</stock>
+    <stock>GE</stock>
+    <stock>MSFT</stock>
+    <stock>MSN</stock>
+  </safe>
+</stocks>

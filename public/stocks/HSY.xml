@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Viktoryia Maskevich
+vmaskevi@my.smccd.edu
+CIS 114
+HSY.xml
+Midterm 2
+04/15/2011
+-->
+  <string xmlns="http://www.webserviceX.NET/"><StockQuotes><Stock><Symbol>HSY</Symbol><Last>56.75</Last><Date>4/14/2011</Date><Time>4:00pm</Time><Change>+0.23</Change><Open>56.49</Open><High>57.10</High><Low>56.371</Low><Volume>1138592</Volume><MktCap>12.899B</MktCap><PreviousClose>56.52</PreviousClose><PercentageChange>+0.41%</PercentageChange><AnnRange>43.57 - 57.10</AnnRange><Earns>2.214</Earns><P-E>25.53</P-E><Name>The Hershey Compa</Name></Stock></StockQuotes></string> 

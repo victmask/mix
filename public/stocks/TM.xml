@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Viktoryia Maskevich
+vmaskevi@my.smccd.edu
+CIS 114
+TM.xml
+Midterm 2
+04/15/2011
+-->
+  <string xmlns="http://www.webserviceX.NET/"><StockQuotes><Stock><Symbol>TM</Symbol><Last>77.88</Last><Date>4/14/2011</Date><Time>4:03pm</Time><Change>-0.10</Change><Open>77.77</Open><High>78.09</High><Low>77.32</Low><Volume>713649</Volume><MktCap>122.1B</MktCap><PreviousClose>77.98</PreviousClose><PercentageChange>-0.13%</PercentageChange><AnnRange>67.56 - 93.90</AnnRange><Earns>3.724</Earns><P-E>20.94</P-E><Name>Toyota Motor Corp</Name></Stock></StockQuotes></string> 

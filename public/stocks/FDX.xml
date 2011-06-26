@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Viktoryia Maskevich
+vmaskevi@my.smccd.edu
+CIS 114
+FDX.xml
+Midterm 2
+04/15/2011
+-->
+  <string xmlns="http://www.webserviceX.NET/"><StockQuotes><Stock><Symbol>FDX</Symbol><Last>92.94</Last><Date>4/14/2011</Date><Time>4:01pm</Time><Change>0.00</Change><Open>N/A</Open><High>N/A</High><Low>N/A</Low><Volume>0</Volume><MktCap>29.462B</MktCap><PreviousClose>92.94</PreviousClose><PercentageChange>0.00%</PercentageChange><AnnRange>69.78 - 98.52</AnnRange><Earns>4.148</Earns><P-E>22.41</P-E><Name>FedEx Corporation</Name></Stock></StockQuotes></string> 

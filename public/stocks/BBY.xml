@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Viktoryia Maskevich
+vmaskevi@my.smccd.edu
+CIS 114
+BBY.xml
+Midterm 2
+04/15/2011
+-->
+  <string xmlns="http://www.webserviceX.NET/"><StockQuotes><Stock><Symbol>BBY</Symbol><Last>29.46</Last><Date>4/14/2011</Date><Time>4:00pm</Time><Change>0.00</Change><Open>N/A</Open><High>N/A</High><Low>N/A</Low><Volume>0</Volume><MktCap>11.587B</MktCap><PreviousClose>29.46</PreviousClose><PercentageChange>0.00%</PercentageChange><AnnRange>28.09 - 48.83</AnnRange><Earns>3.08</Earns><P-E>9.56</P-E><Name>Best Buy Co.</Name></Stock></StockQuotes></string> 

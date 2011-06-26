@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Viktoryia Maskevich
+vmaskevi@my.smccd.edu
+CIS 114
+alternative.xml
+Assign 6
+04/21/2011-->
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 New Releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=21</link>
+    <atom:link href="http://r.mzstatic.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143441/limit=10/genre=20/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 10 Newest Releases in Alternative</description>
+		<language>en</language>
+		<copyright>Copyright 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Fri, 22 Apr 2011 02:43:34 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2011-04-22T02:43:34-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>http://r.mzstatic.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Personal Jesus (Alex Metric Remix Edit) - Single - Depeche Mode</title>
+    <link>http://itunes.apple.com/album/personal-jesus-alex-metric/id431180041?uo=1&amp;v0=9988</link>
+    <description>Personal Jesus (Alex Metric Remix Edit) - Single by Depeche Mode</description>
+    <pubDate>Fri, 22 Apr 2011 02:43:34 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/personal-jesus-alex-metric/id431180041?uo=1&v0=9988"><img border="0" src="http://a1.mzstatic.com/us/r1000/055/Music/e0/64/6b/mzi.eiwuhefv.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/personal-jesus-alex-metric/id431180041?uo=1&v0=9988">Personal Jesus (Alex Metric Remix Edit) - Single</a></B><br>
+						<a href="http://itunes.apple.com/artist/depeche-mode/id148377?uo=1&v0=9988">Depeche Mode</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 19, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 Reprise Records. Marketed By Rhino Entertainment Company, a Warner Music Group Company.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Depeche Mode</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/depeche-mode/id148377?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Personal Jesus (Alex Metric Remix Edit) - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/personal-jesus-alex-metric/id431180041?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a2.mzstatic.com/us/r1000/055/Music/e0/64/6b/mzi.eiwuhefv.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a3.mzstatic.com/us/r1000/055/Music/e0/64/6b/mzi.eiwuhefv.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.mzstatic.com/us/r1000/055/Music/e0/64/6b/mzi.eiwuhefv.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 Reprise Records. Marketed By Rhino Entertainment Company, a Warner Music Group Company.</itms:rights>
+    
+        <itms:releasedate>April 19, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Legalize It - EP - Kottonmouth Kings</title>
+    <link>http://itunes.apple.com/album/legalize-it-ep/id428074595?uo=1&amp;v0=9988</link>
+    <description>Legalize It - EP by Kottonmouth Kings</description>
+    <pubDate>Fri, 22 Apr 2011 02:43:34 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/legalize-it-ep/id428074595?uo=1&v0=9988"><img border="0" src="http://a1.mzstatic.com/us/r30/Music/dc/24/0d/mzi.ygbljjwq.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/legalize-it-ep/id428074595?uo=1&v0=9988">Legalize It - EP</a></B><br>
+						<a href="http://itunes.apple.com/artist/kottonmouth-kings/id633182?uo=1&v0=9988">Kottonmouth Kings</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 19, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						6</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$4.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 Suburban Noize Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Kottonmouth Kings</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/kottonmouth-kings/id633182?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Legalize It - EP</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/legalize-it-ep/id428074595?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$4.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.mzstatic.com/us/r30/Music/dc/24/0d/mzi.ygbljjwq.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a2.mzstatic.com/us/r30/Music/dc/24/0d/mzi.ygbljjwq.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.mzstatic.com/us/r30/Music/dc/24/0d/mzi.ygbljjwq.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 Suburban Noize Records</itms:rights>
+    
+        <itms:releasedate>April 19, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Personal Jesus (The Stargate Mix) - Single - Depeche Mode</title>
+    <link>http://itunes.apple.com/album/personal-jesus-the-stargate/id431180000?uo=1&amp;v0=9988</link>
+    <description>Personal Jesus (The Stargate Mix) - Single by Depeche Mode</description>
+    <pubDate>Fri, 22 Apr 2011 02:43:34 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/personal-jesus-the-stargate/id431180000?uo=1&v0=9988"><img border="0" src="http://a2.mzstatic.com/us/r1000/023/Music/e0/64/6b/mzi.uthozykr.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/personal-jesus-the-stargate/id431180000?uo=1&v0=9988">Personal Jesus (The Stargate Mix) - Single</a></B><br>
+						<a href="http://itunes.apple.com/artist/depeche-mode/id148377?uo=1&v0=9988">Depeche Mode</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 19, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 Reprise Records. Marketed By Rhino Entertainment Company, a Warner Music Group Company.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Depeche Mode</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/depeche-mode/id148377?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Personal Jesus (The Stargate Mix) - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/personal-jesus-the-stargate/id431180000?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a2.mzstatic.com/us/r1000/023/Music/e0/64/6b/mzi.uthozykr.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a3.mzstatic.com/us/r1000/023/Music/e0/64/6b/mzi.uthozykr.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a2.mzstatic.com/us/r1000/023/Music/e0/64/6b/mzi.uthozykr.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 Reprise Records. Marketed By Rhino Entertainment Company, a Warner Music Group Company.</itms:rights>
+    
+        <itms:releasedate>April 19, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Exile Vilify (From the Game &#34;Portal 2&#34;) - Single - The National</title>
+    <link>http://itunes.apple.com/album/exile-vilify-from-game-portal/id432601217?uo=1&amp;v0=9988</link>
+    <description>Exile Vilify (From the Game &#34;Portal 2&#34;) - Single by The National</description>
+    <pubDate>Fri, 22 Apr 2011 02:43:34 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/exile-vilify-from-game-portal/id432601217?uo=1&v0=9988"><img border="0" src="http://a3.mzstatic.com/us/r30/Music/bc/75/33/mzi.rmvyfxif.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/exile-vilify-from-game-portal/id432601217?uo=1&v0=9988">Exile Vilify (From the Game &quot;Portal 2&quot;) - Single</a></B><br>
+						<a href="http://itunes.apple.com/artist/the-national/id51075707?uo=1&v0=9988">The National</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 19, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$0.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 The National</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>The National</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/the-national/id51075707?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Exile Vilify (From the Game &#34;Portal 2&#34;) - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/exile-vilify-from-game-portal/id432601217?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$0.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a3.mzstatic.com/us/r30/Music/bc/75/33/mzi.rmvyfxif.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a4.mzstatic.com/us/r30/Music/bc/75/33/mzi.rmvyfxif.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a3.mzstatic.com/us/r30/Music/bc/75/33/mzi.rmvyfxif.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 The National</itms:rights>
+    
+        <itms:releasedate>April 19, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>She Knows - Single - The Downtown Fiction</title>
+    <link>http://itunes.apple.com/album/she-knows-single/id431444655?uo=1&amp;v0=9988</link>
+    <description>She Knows - Single by The Downtown Fiction</description>
+    <pubDate>Fri, 22 Apr 2011 02:43:34 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/she-knows-single/id431444655?uo=1&v0=9988"><img border="0" src="http://a1.mzstatic.com/us/r30/Music/86/e8/72/mzi.yoigqoje.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/she-knows-single/id431444655?uo=1&v0=9988">She Knows - Single</a></B><br>
+						<a href="http://itunes.apple.com/artist/the-downtown-fiction/id304215792?uo=1&v0=9988">The Downtown Fiction</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 19, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 Photo Finish Records, LLC. All Rights Reserved. Manufactured and Distributed by Atlantic Recording Corporation, a Warner Music Group Company.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>The Downtown Fiction</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/the-downtown-fiction/id304215792?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>She Knows - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/she-knows-single/id431444655?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a5.mzstatic.com/us/r30/Music/86/e8/72/mzi.yoigqoje.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.mzstatic.com/us/r30/Music/86/e8/72/mzi.yoigqoje.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.mzstatic.com/us/r30/Music/86/e8/72/mzi.yoigqoje.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 Photo Finish Records, LLC. All Rights Reserved. Manufactured and Distributed by Atlantic Recording Corporation, a Warner Music Group Company.</itms:rights>
+    
+        <itms:releasedate>April 19, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Live Under Lights (Live) - EP - Amely</title>
+    <link>http://itunes.apple.com/album/live-under-lights-live-ep/id429262287?uo=1&amp;v0=9988</link>
+    <description>Live Under Lights (Live) - EP by Amely</description>
+    <pubDate>Fri, 22 Apr 2011 02:43:34 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/live-under-lights-live-ep/id429262287?uo=1&v0=9988"><img border="0" src="http://a5.mzstatic.com/us/r1000/009/Music/11/31/ef/mzi.eymfbubf.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/live-under-lights-live-ep/id429262287?uo=1&v0=9988">Live Under Lights (Live) - EP</a></B><br>
+						<a href="http://itunes.apple.com/artist/amely/id429262294?uo=1&v0=9988">Amely</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 19, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						5</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$2.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 Fearless Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Amely</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/amely/id429262294?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Live Under Lights (Live) - EP</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/live-under-lights-live-ep/id429262287?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$2.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a5.mzstatic.com/us/r1000/009/Music/11/31/ef/mzi.eymfbubf.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a3.mzstatic.com/us/r1000/009/Music/11/31/ef/mzi.eymfbubf.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a5.mzstatic.com/us/r1000/009/Music/11/31/ef/mzi.eymfbubf.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 Fearless Records</itms:rights>
+    
+        <itms:releasedate>April 19, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Must Be Blind / Life In Muscle - Single - Bonnie &#34;Prince&#34; Billy &amp; Matt Sweeney</title>
+    <link>http://itunes.apple.com/album/must-be-blind-life-in-muscle/id430488017?uo=1&amp;v0=9988</link>
+    <description>Must Be Blind / Life In Muscle - Single by Bonnie &#34;Prince&#34; Billy &amp; Matt Sweeney</description>
+    <pubDate>Fri, 22 Apr 2011 02:43:34 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/must-be-blind-life-in-muscle/id430488017?uo=1&v0=9988"><img border="0" src="http://a1.mzstatic.com/us/r1000/022/Music/e1/4c/b5/mzi.mlvrsbbn.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/must-be-blind-life-in-muscle/id430488017?uo=1&v0=9988">Must Be Blind / Life In Muscle - Single</a></B><br>
+						<a href="http://itunes.apple.com/artist/bonnie-prince-billy/id67291928?uo=1&v0=9988">Bonnie &quot;Prince&quot; Billy &amp; Matt Sweeney</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 19, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						2</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 Drag City</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Bonnie &#34;Prince&#34; Billy &amp; Matt Sweeney</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/bonnie-prince-billy/id67291928?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Must Be Blind / Life In Muscle - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/must-be-blind-life-in-muscle/id430488017?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a3.mzstatic.com/us/r1000/022/Music/e1/4c/b5/mzi.mlvrsbbn.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a4.mzstatic.com/us/r1000/022/Music/e1/4c/b5/mzi.mlvrsbbn.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.mzstatic.com/us/r1000/022/Music/e1/4c/b5/mzi.mlvrsbbn.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 Drag City</itms:rights>
+    
+        <itms:releasedate>April 19, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Options - Single - Gomez</title>
+    <link>http://itunes.apple.com/album/options-single/id429571956?uo=1&amp;v0=9988</link>
+    <description>Options - Single by Gomez</description>
+    <pubDate>Fri, 22 Apr 2011 02:43:34 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/options-single/id429571956?uo=1&v0=9988"><img border="0" src="http://a5.mzstatic.com/us/r30/Music/e1/56/55/mzi.qwdmqtjy.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/options-single/id429571956?uo=1&v0=9988">Options - Single</a></B><br>
+						<a href="http://itunes.apple.com/artist/gomez/id649118?uo=1&v0=9988">Gomez</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 19, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$0.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 ATO Records, LLC. All Rights Reserved.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Gomez</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/gomez/id649118?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Options - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/options-single/id429571956?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$0.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.mzstatic.com/us/r30/Music/e1/56/55/mzi.qwdmqtjy.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a2.mzstatic.com/us/r30/Music/e1/56/55/mzi.qwdmqtjy.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a5.mzstatic.com/us/r30/Music/e1/56/55/mzi.qwdmqtjy.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 ATO Records, LLC. All Rights Reserved.</itms:rights>
+    
+        <itms:releasedate>April 19, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>No Land&#39;s Man - EP - The Republic Tigers</title>
+    <link>http://itunes.apple.com/album/no-lands-man-ep/id430240130?uo=1&amp;v0=9988</link>
+    <description>No Land&#39;s Man - EP by The Republic Tigers</description>
+    <pubDate>Fri, 22 Apr 2011 02:43:34 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/no-lands-man-ep/id430240130?uo=1&v0=9988"><img border="0" src="http://a3.mzstatic.com/us/r30/Music/cc/83/95/mzi.qbtvxmso.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/no-lands-man-ep/id430240130?uo=1&v0=9988">No Land's Man - EP</a></B><br>
+						<a href="http://itunes.apple.com/artist/the-republic-tigers/id254937255?uo=1&v0=9988">The Republic Tigers</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 18, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						4</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$3.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 Chop Shop Records / Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>The Republic Tigers</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/the-republic-tigers/id254937255?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>No Land&#39;s Man - EP</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/no-lands-man-ep/id430240130?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$3.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a3.mzstatic.com/us/r30/Music/cc/83/95/mzi.qbtvxmso.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a4.mzstatic.com/us/r30/Music/cc/83/95/mzi.qbtvxmso.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a3.mzstatic.com/us/r30/Music/cc/83/95/mzi.qbtvxmso.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 Chop Shop Records / Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States</itms:rights>
+    
+        <itms:releasedate>April 18, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>The Fall - Gorillaz</title>
+    <link>http://itunes.apple.com/album/the-fall/id426769414?uo=1&amp;v0=9988</link>
+    <description>The Fall by Gorillaz</description>
+    <pubDate>Fri, 22 Apr 2011 02:43:34 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/the-fall/id426769414?uo=1&v0=9988"><img border="0" src="http://a4.mzstatic.com/us/r1000/032/Music/82/8f/47/mzi.gtdxggxv.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/the-fall/id426769414?uo=1&v0=9988">The Fall</a></B><br>
+						<a href="http://itunes.apple.com/artist/gorillaz/id567072?uo=1&v0=9988">Gorillaz</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 15, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						15</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						 2011 The copyright in this sound recording is owned by EMI Records Ltd</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Gorillaz</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/gorillaz/id567072?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>The Fall</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/the-fall/id426769414?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a3.mzstatic.com/us/r1000/032/Music/82/8f/47/mzi.gtdxggxv.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a4.mzstatic.com/us/r1000/032/Music/82/8f/47/mzi.gtdxggxv.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a4.mzstatic.com/us/r1000/032/Music/82/8f/47/mzi.gtdxggxv.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights> 2011 The copyright in this sound recording is owned by EMI Records Ltd</itms:rights>
+    
+        <itms:releasedate>April 15, 2011</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>

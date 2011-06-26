@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Viktoryia Maskevich
+vmaskevi@my.smccd.edu
+CIS 114
+WIN.xml
+Midterm 2
+04/15/2011
+-->
+  <string xmlns="http://www.webserviceX.NET/"><StockQuotes><Stock><Symbol>WIN</Symbol><Last>12.47</Last><Date>4/14/2011</Date><Time>4:00pm</Time><Change>0.00</Change><Open>N/A</Open><High>N/A</High><Low>N/A</Low><Volume>0</Volume><MktCap>6.289B</MktCap><PreviousClose>12.47</PreviousClose><PercentageChange>0.00%</PercentageChange><AnnRange>6.02 - 14.40</AnnRange><Earns>0.657</Earns><P-E>18.98</P-E><Name>Windstream Corpor</Name></Stock></StockQuotes></string> 
+  

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Viktoryia Maskevich
+vmaskevi@my.smccd.edu
+CIS 114
+world.xml
+Assign 6
+04/21/2011-->
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 New Releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=20</link>
+    <atom:link href="http://r.mzstatic.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143441/limit=10/genre=19/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 10 Newest Releases in World</description>
+		<language>en</language>
+		<copyright>Copyright 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Fri, 22 Apr 2011 02:44:51 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2011-04-22T02:44:51-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>http://r.mzstatic.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Je t&#39;aime - Léa Galva</title>
+    <link>http://itunes.apple.com/album/je-taime/id433807383?uo=1&amp;v0=9988</link>
+    <description>Je t&#39;aime by Léa Galva</description>
+    <pubDate>Fri, 22 Apr 2011 02:44:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/je-taime/id433807383?uo=1&v0=9988"><img border="0" src="http://a4.mzstatic.com/us/r1000/040/Music/0a/2d/ad/mzi.yhgiyvdw.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/je-taime/id433807383?uo=1&v0=9988">Je t'aime</a></B><br>
+						<a href="http://itunes.apple.com/artist/lea-galva/id120594212?uo=1&v0=9988">Léa Galva</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 22, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						0</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$6.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 Hibiscus Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>Léa Galva</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/lea-galva/id120594212?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Je t&#39;aime</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/je-taime/id433807383?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$6.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a5.mzstatic.com/us/r1000/040/Music/0a/2d/ad/mzi.yhgiyvdw.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a3.mzstatic.com/us/r1000/040/Music/0a/2d/ad/mzi.yhgiyvdw.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a4.mzstatic.com/us/r1000/040/Music/0a/2d/ad/mzi.yhgiyvdw.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 Hibiscus Records</itms:rights>
+    
+        <itms:releasedate>April 22, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Mr Rascal - John Peter</title>
+    <link>http://itunes.apple.com/album/mr-rascal/id433566447?uo=1&amp;v0=9988</link>
+    <description>Mr Rascal by John Peter</description>
+    <pubDate>Fri, 22 Apr 2011 02:44:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/mr-rascal/id433566447?uo=1&v0=9988"><img border="0" src="http://a2.mzstatic.com/us/r1000/017/Music/91/76/64/mzi.qxicbnhw.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/mr-rascal/id433566447?uo=1&v0=9988">Mr Rascal</a></B><br>
+						<a href="http://itunes.apple.com/artist/john-peter/id433566449?uo=1&v0=9988">John Peter</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 22, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						6</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$5.94</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 Aditya Music (India) Pvt. Ltd.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>John Peter</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/john-peter/id433566449?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Mr Rascal</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/mr-rascal/id433566447?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$5.94</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a2.mzstatic.com/us/r1000/017/Music/91/76/64/mzi.qxicbnhw.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a3.mzstatic.com/us/r1000/017/Music/91/76/64/mzi.qxicbnhw.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a2.mzstatic.com/us/r1000/017/Music/91/76/64/mzi.qxicbnhw.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 Aditya Music (India) Pvt. Ltd.</itms:rights>
+    
+        <itms:releasedate>April 22, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Motherland - The Score - Sona Jobarteh</title>
+    <link>http://itunes.apple.com/album/motherland-the-score/id433731583?uo=1&amp;v0=9988</link>
+    <description>Motherland - The Score by Sona Jobarteh</description>
+    <pubDate>Fri, 22 Apr 2011 02:44:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/motherland-the-score/id433731583?uo=1&v0=9988"><img border="0" src="http://a5.mzstatic.com/us/r30/Music/86/a9/55/mzi.cphvnyek.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/motherland-the-score/id433731583?uo=1&v0=9988">Motherland - The Score</a></B><br>
+						<a>Sona Jobarteh</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 21, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						0</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.90</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 African Guild Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>Sona Jobarteh</itms:artist>
+    <itms:artistLink></itms:artistLink>
+    <itms:album>Motherland - The Score</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/motherland-the-score/id433731583?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.90</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a5.mzstatic.com/us/r30/Music/86/a9/55/mzi.cphvnyek.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.mzstatic.com/us/r30/Music/86/a9/55/mzi.cphvnyek.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a5.mzstatic.com/us/r30/Music/86/a9/55/mzi.cphvnyek.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 African Guild Records</itms:rights>
+    
+        <itms:releasedate>April 21, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Ghaint Patola - Single - Offlicence</title>
+    <link>http://itunes.apple.com/album/ghaint-patola-single/id431421934?uo=1&amp;v0=9988</link>
+    <description>Ghaint Patola - Single by Offlicence</description>
+    <pubDate>Fri, 22 Apr 2011 02:44:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/ghaint-patola-single/id431421934?uo=1&v0=9988"><img border="0" src="http://a1.mzstatic.com/us/r30/Music/e1/0f/93/mzi.bmorvntn.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/ghaint-patola-single/id431421934?uo=1&v0=9988">Ghaint Patola - Single</a></B><br>
+						<a href="http://itunes.apple.com/artist/offlicence/id314192108?uo=1&v0=9988">Offlicence</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 21, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$0.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 Offlicence Music</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>Offlicence</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/offlicence/id314192108?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Ghaint Patola - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/ghaint-patola-single/id431421934?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$0.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.mzstatic.com/us/r30/Music/e1/0f/93/mzi.bmorvntn.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a2.mzstatic.com/us/r30/Music/e1/0f/93/mzi.bmorvntn.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.mzstatic.com/us/r30/Music/e1/0f/93/mzi.bmorvntn.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 Offlicence Music</itms:rights>
+    
+        <itms:releasedate>April 21, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Soca Invasion - It&#39;s Rudy</title>
+    <link>http://itunes.apple.com/album/soca-invasion/id433531777?uo=1&amp;v0=9988</link>
+    <description>Soca Invasion by It&#39;s Rudy</description>
+    <pubDate>Fri, 22 Apr 2011 02:44:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/soca-invasion/id433531777?uo=1&v0=9988"><img border="0" src="http://a2.mzstatic.com/us/r30/Music/d2/6d/0b/mzi.hjhrxyex.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/soca-invasion/id433531777?uo=1&v0=9988">Soca Invasion</a></B><br>
+						<a href="http://itunes.apple.com/artist/its-rudy/id433531778?uo=1&v0=9988">It's Rudy</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 21, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						9</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$8.91</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 Toiya Issac</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>It&#39;s Rudy</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/its-rudy/id433531778?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Soca Invasion</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/soca-invasion/id433531777?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$8.91</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.mzstatic.com/us/r30/Music/d2/6d/0b/mzi.hjhrxyex.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a4.mzstatic.com/us/r30/Music/d2/6d/0b/mzi.hjhrxyex.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a2.mzstatic.com/us/r30/Music/d2/6d/0b/mzi.hjhrxyex.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 Toiya Issac</itms:rights>
+    
+        <itms:releasedate>April 21, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Volume 4 - Mount Fao Band</title>
+    <link>http://itunes.apple.com/album/volume-4/id433806189?uo=1&amp;v0=9988</link>
+    <description>Volume 4 by Mount Fao Band</description>
+    <pubDate>Fri, 22 Apr 2011 02:44:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/volume-4/id433806189?uo=1&v0=9988"><img border="0" src="http://a5.mzstatic.com/us/r1000/015/Music/8b/07/1f/mzi.vheffcxh.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/volume-4/id433806189?uo=1&v0=9988">Volume 4</a></B><br>
+						<a href="http://itunes.apple.com/artist/mount-fao-band/id432451869?uo=1&v0=9988">Mount Fao Band</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 19, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						0</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.90</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 Jstyla Productions</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>Mount Fao Band</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/mount-fao-band/id432451869?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Volume 4</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/volume-4/id433806189?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.90</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a3.mzstatic.com/us/r1000/015/Music/8b/07/1f/mzi.vheffcxh.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a4.mzstatic.com/us/r1000/015/Music/8b/07/1f/mzi.vheffcxh.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a5.mzstatic.com/us/r1000/015/Music/8b/07/1f/mzi.vheffcxh.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 Jstyla Productions</itms:rights>
+    
+        <itms:releasedate>April 19, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Sumu, Vol. 1 - Mah Kouyaté</title>
+    <link>http://itunes.apple.com/album/sumu-vol-1/id433324419?uo=1&amp;v0=9988</link>
+    <description>Sumu, Vol. 1 by Mah Kouyaté</description>
+    <pubDate>Fri, 22 Apr 2011 02:44:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/sumu-vol-1/id433324419?uo=1&v0=9988"><img border="0" src="http://a3.mzstatic.com/us/r1000/059/Music/ac/0d/77/mzi.btniqcaq.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/sumu-vol-1/id433324419?uo=1&v0=9988">Sumu, Vol. 1</a></B><br>
+						<a href="http://itunes.apple.com/artist/mah-kouyate/id157697636?uo=1&v0=9988">Mah Kouyaté</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 19, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						6</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$6.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 2010, Camara productions</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>Mah Kouyaté</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/mah-kouyate/id157697636?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Sumu, Vol. 1</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/sumu-vol-1/id433324419?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$6.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a2.mzstatic.com/us/r1000/059/Music/ac/0d/77/mzi.btniqcaq.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a3.mzstatic.com/us/r1000/059/Music/ac/0d/77/mzi.btniqcaq.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a3.mzstatic.com/us/r1000/059/Music/ac/0d/77/mzi.btniqcaq.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 2010, Camara productions</itms:rights>
+    
+        <itms:releasedate>April 19, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Axerico en Selanik - Mazal</title>
+    <link>http://itunes.apple.com/album/axerico-en-selanik/id431849940?uo=1&amp;v0=9988</link>
+    <description>Axerico en Selanik by Mazal</description>
+    <pubDate>Fri, 22 Apr 2011 02:44:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/axerico-en-selanik/id431849940?uo=1&v0=9988"><img border="0" src="http://a3.mzstatic.com/us/r30/Music/41/4b/cb/mzi.jgkkkejq.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/axerico-en-selanik/id431849940?uo=1&v0=9988">Axerico en Selanik</a></B><br>
+						<a href="http://itunes.apple.com/artist/mazal/id431849958?uo=1&v0=9988">Mazal</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 19, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.90</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 Tzadik</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>Mazal</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/mazal/id431849958?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Axerico en Selanik</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/axerico-en-selanik/id431849940?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.90</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a5.mzstatic.com/us/r30/Music/41/4b/cb/mzi.jgkkkejq.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.mzstatic.com/us/r30/Music/41/4b/cb/mzi.jgkkkejq.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a3.mzstatic.com/us/r30/Music/41/4b/cb/mzi.jgkkkejq.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 Tzadik</itms:rights>
+    
+        <itms:releasedate>April 19, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Finnish Pop Hits - Déjà Vu</title>
+    <link>http://itunes.apple.com/album/finnish-pop-hits/id429723275?uo=1&amp;v0=9988</link>
+    <description>Finnish Pop Hits by Déjà Vu</description>
+    <pubDate>Fri, 22 Apr 2011 02:44:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/finnish-pop-hits/id429723275?uo=1&v0=9988"><img border="0" src="http://a3.mzstatic.com/us/r30/Music/92/51/c9/mzi.zhuunwkw.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/finnish-pop-hits/id429723275?uo=1&v0=9988">Finnish Pop Hits</a></B><br>
+						<a href="http://itunes.apple.com/artist/id205448980?uo=1&v0=9988">Déjà Vu</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 19, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						33</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$11.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 Drew's Entertainment</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>Déjà Vu</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/id205448980?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Finnish Pop Hits</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/finnish-pop-hits/id429723275?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$11.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.mzstatic.com/us/r30/Music/92/51/c9/mzi.zhuunwkw.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a4.mzstatic.com/us/r30/Music/92/51/c9/mzi.zhuunwkw.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a3.mzstatic.com/us/r30/Music/92/51/c9/mzi.zhuunwkw.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 Drew&#39;s Entertainment</itms:rights>
+    
+        <itms:releasedate>April 19, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Amore mio, Vol. 2 Sapore d&#39;Italia - Various Artists</title>
+    <link>http://itunes.apple.com/album/amore-mio-vol-2-sapore-ditalia/id432526445?uo=1&amp;v0=9988</link>
+    <description>Amore mio, Vol. 2 Sapore d&#39;Italia by Various Artists</description>
+    <pubDate>Fri, 22 Apr 2011 02:44:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/amore-mio-vol-2-sapore-ditalia/id432526445?uo=1&v0=9988"><img border="0" src="http://a2.mzstatic.com/us/r30/Music/fb/23/89/mzi.mysifljq.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/amore-mio-vol-2-sapore-ditalia/id432526445?uo=1&v0=9988">Amore mio, Vol. 2 Sapore d'Italia</a></B><br>
+						<a>Various Artists</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 19, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$6.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 Brisa Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>Various Artists</itms:artist>
+    <itms:artistLink></itms:artistLink>
+    <itms:album>Amore mio, Vol. 2 Sapore d&#39;Italia</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/amore-mio-vol-2-sapore-ditalia/id432526445?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$6.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a5.mzstatic.com/us/r30/Music/fb/23/89/mzi.mysifljq.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.mzstatic.com/us/r30/Music/fb/23/89/mzi.mysifljq.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a2.mzstatic.com/us/r30/Music/fb/23/89/mzi.mysifljq.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 Brisa Records</itms:rights>
+    
+        <itms:releasedate>April 19, 2011</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>
