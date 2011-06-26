@@ -11,7 +11,7 @@ class BookerController < ApplicationController
   def index
     @title = params[:title]
     @chap_index = params[:chapIndex].to_i
-    @book = File.read("/Users/victmask/RoR/shoppik/public/books/book_#{@title}.xml")
+    @book = File.read(Dir.pwd + "/public/books/book_#{@title}.xml")
     @xml_elements = (REXML::Document.new @book).root.elements
 
     @chap = @xml_elements["chapters"][2*@chap_index+1]
