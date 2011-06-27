@@ -6,7 +6,7 @@ Shoppik::Application.routes.draw do
   match '/completer', :to => 'booker#completer'
   match '/ziplookup', :to => 'booker#zip_lookup'
   match '/stocks_picker', :to => 'booker#stocks_picker'
-  match 'newsfeeder', :to => 'booker#news_feeder'
+  match '/newsfeeder', :to => 'booker#news_feeder'
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

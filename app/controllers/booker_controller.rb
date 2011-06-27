@@ -144,11 +144,12 @@ class BookerController < ApplicationController
     rss_url = params[:rssurl]
 #   Return the RSS feed data
     agent = Mechanize.new
-    xml = CGI.unescapeHTML(agent.get_file(rss_url))
+    #xml = CGI.unescapeHTML(agent.get_file(rss_url))
 #    xml = File.read('public/feeds/' + rss_url)
+   xml = agent.get_file(rss_url)
+    puts xml
 
     render :xml => xml
 
-    puts "xml !!! #{xml} !!! xml end"
   end
 end

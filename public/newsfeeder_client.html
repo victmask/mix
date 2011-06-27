@@ -8,7 +8,7 @@ Midterm 2
 -->
 <html>
   <head>
-    <title>VIktoryia Maskevich. News Feeder</title>
+    <title>Viktoryia Maskevich. News Feeder</title>
     <link rel="stylesheet" type="text/css" href="stylesheets/newsfeeder.css" />
     <script type="text/javascript" src="javascripts/ajaxkit.js"> </script>
     <script type="text/javascript" src="javascripts/domkit.js"> </script>
@@ -54,9 +54,7 @@ Midterm 2
         document.getElementById("feedcontent").innerHTML = "<img src='images/wait.gif' alt='Loading...' />";
 
         // Send the Ajax request to load the new feed content
-        ajaxSendRequest("GET", "newsfeeder?rssurl=" +
-          encodeURIComponent(document.getElementById('feed').options[document.getElementById('feed').selectedIndex].value),
-          handleFeedRequest);
+        ajaxSendRequest("GET", "newsfeeder?rssurl=" + encodeURIComponent(document.getElementById('feed').options[document.getElementById('feed').selectedIndex].value), handleFeedRequest);
       }
 
       // Preload the wait image
@@ -73,10 +71,10 @@ Midterm 2
         <option value="http://feeds.wired.com/wired/index?format=xml/">Wired News</option>
         <option value="http://www.engadget.com/rss.xml">Engadget</option>
         <option value="http://feeds2.feedburner.com/ziffdavis/extremetech/">ExtremeTech</option>
-        <!--<option value="http://feeds.feedburner.com/ajaxian/">Ajaxian</option>-->
-        <!--<option value="http://rss.sciam.com/ScientificAmerican-Global/">Scientific American</option>-->
-        <!--<option value="http://news.google.com/news?ned=us&topic=w&output=rss">Google News</option>-->
-        <!--<option value="http://feeds.feedburner.com/railscasts/">Railscasts</option>-->
+        <option value="http://feeds.feedburner.com/ajaxian/">Ajaxian</option>
+        <option value="http://rss.sciam.com/ScientificAmerican-Global/">Scientific American</option>
+        <option value="http://news.google.com/news?ned=us&topic=w&output=rss">Google News</option>
+        <option value="http://feeds.feedburner.com/railscasts/">Railscasts</option>
       </select>
     </div>
     <br />
