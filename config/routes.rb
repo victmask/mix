@@ -1,12 +1,14 @@
 Shoppik::Application.routes.draw do
 
-  root :to => 'booker#all'
-
-  match '/booker', :to => 'booker#index'
-  match '/completer', :to => 'booker#completer'
-  match '/ziplookup', :to => 'booker#zip_lookup'
-  match '/stocks_picker', :to => 'booker#stocks_picker'
-  match '/newsfeeder', :to => 'booker#news_feeder'
+  #root :to => 'booker#all'
+  root :to => 'home#index'
+  match '/informer' => 'home#informer'
+  match '/completer' => 'home#completer'
+  match '/booker', :to => 'home#booker'
+  match '/validator', :to => 'home#validator'
+  match '/stocks', :to => 'home#stocks'
+  match '/newsfeeder', :to => 'home#news_feeder'
+  match '/itunes' => 'home#itunes'
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

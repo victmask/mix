@@ -1,0 +1,39 @@
+<!--
+Viktoryia Maskevich
+vmaskevi@my.smccd.edu
+CIS 114
+itunes.html
+Assign 6
+04/21/2011
+-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" >
+<html>
+    <head>
+        <title>Viktoryia Maskevich. iTunes Ajax Demo CIS 114</title>
+        <link rel="stylesheet" type="text/css" href="stylesheets/itunes.css" />
+        <script type="text/javascript" src="javascripts/itunes.js"></script>
+    </head>
+    <body>
+        <h1>iTunes</h1>
+        <hr/>
+        <form>
+            <p>Category:<br />
+                <select onchange="javascript:loadDoc(event)">
+                    <option value="">Choose One</option>
+                    <option value="feeds/Alternative.xml">Alternative</option>
+                    <option value="feeds/Blues.xml">Blues</option>
+                    <option value="feeds/Jazz.xml">Jazz</option>
+                    <option value="feeds/Songwriter.xml">Songwriter</option>
+                    <option value="feeds/World.xml">World</option>
+
+                </select>
+            </p>
+            <p>Items:<br />
+                <select size="5" id="topics" onchange="javascript:showDetail(event)">
+                    <option value="">Choose a Category First</option>
+                </select>
+            </p>
+        </form>
+        <div id="details"><span></span></div>
+    </body>
+</html>
