@@ -88,9 +88,9 @@ function validateDate(inputControl, helpControl) {
     return false;
 
   // Then see if the input value is a date
-  return validateRegEx(/(0[1-9]|1[012])[- /.](0[1-9]|[12][0-9]|3[01])[- /.](19|20)\d\d/,
+  return validateRegEx(/^(0[1-9]|1[012]|[1-9])[- /.](0[1-9]|[12][0-9]|3[01]|[1-9])[- /.](19|20)\d\d$/,
     inputControl.value, helpControl,
-    "Please enter a date (for example, 01/14/1975).");
+    "Please enter a date from between 01-01-1900 and 12-31-2099. Format: mm-dd-yyyy");
 }
 
 function validateRegEx(regex, input, helpControl, helpMessage) {

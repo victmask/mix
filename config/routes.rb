@@ -5,9 +5,13 @@ Shoppik::Application.routes.draw do
   match '/informer' => 'home#informer'
   match '/completer' => 'home#completer'
   match '/booker', :to => 'home#booker'
+  match '/bookerxml', :to => 'home#booker_xml'
   match '/validator', :to => 'home#validator'
+  match '/zip_code_validator' => 'home#zip_code_validator'
   match '/stocks', :to => 'home#stocks'
+  match '/stocks_picker' => 'home#stocks_picker'
   match '/newsfeeder', :to => 'home#news_feeder'
+  match '/newsfeederxml', :to => 'home#news_feeder_xml'
   match '/itunes' => 'home#itunes'
   # The priority is based upon order of creation:
   # first created -> highest priority.
