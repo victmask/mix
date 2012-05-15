@@ -1,11 +1,6 @@
 /* Ajax Construction Kit  */
 /* Validation Toolkit Functions  */
 /*
-Viktoryia Maskevich
-vmaskevi@my.smccd.edu
-CIS 114
-validatekit.js
-Assignment #6
 04/21/2011*/
 function validateNonEmpty(inputControl, helpControl) {
   // See if the input value contains any text

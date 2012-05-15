@@ -1,9 +1,4 @@
 /*
- Viktoryia Maskevich
-vmaskevi@my.smccd.edu
-CIS 114
-itunes.js
-Assign 6
 04/21/2011*/
 // global flags
 var isIE = (new RegExp('internet explorer','gi')).test(navigator.appName);

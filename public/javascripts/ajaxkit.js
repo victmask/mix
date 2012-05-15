@@ -1,9 +1,5 @@
 /*
-Viktoryia Maskevich
-vmaskevi@my.smccd.edu
-CIS 114
-ajaxkit.js
-Assignment #5
+
 03/31/2011
 */
 /* Ajax Construction Kit  */

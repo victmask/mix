@@ -1,12 +1,8 @@
 /*
-Viktoryia Maskevich
-vmaskevi@my.smccd.edu
-CIS 114
-infowinkit.css
-Assignment #7
 04/26/2011
 */
 #infowin {
+  width: 30%;
   position : absolute;
   left : 0px;
   top : 0px;

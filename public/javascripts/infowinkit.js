@@ -1,10 +1,5 @@
 // Animated wait image variable
 /*
-Viktoryia Maskevich
-vmaskevi@my.smccd.edu
-CIS 114
-infowinkit.js
-Assignment #7
 04/26/2011*/
 var waitImage;
 
