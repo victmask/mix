@@ -41,6 +41,7 @@ option {
 }
 
 
+
 .details{
     float:left;
     width: 40%;
@@ -84,9 +85,10 @@ ul li.selected, option:checked {
 }
 
 
-ul li:hover {
+ul li:hover, option:hover {
 	background-image: url(selected_background_rollover.gif);
 	color: white;
+    cursor: pointer;
 }
 
 #header{

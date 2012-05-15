@@ -32,10 +32,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="itunes.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="itunes.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/itunes.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="17" selection-start="1281" selection-end="1281" vertical-scroll-proportion="-8.08">
+            <state line="87" column="25" selection-start="1191" selection-end="1191" vertical-scroll-proportion="0.3159609">
               <folding />
             </state>
           </provider>
@@ -59,10 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="itunes.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="itunes.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/home/itunes.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="16" selection-start="1478" selection-end="1478" vertical-scroll-proportion="1.6279069">
+            <state line="28" column="16" selection-start="1478" selection-end="1478" vertical-scroll-proportion="-5.675676">
               <folding />
             </state>
           </provider>
@@ -697,13 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/itunes.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="17" selection-start="1281" selection-end="1281" vertical-scroll-proportion="-8.08">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/itunes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="0" selection-start="667" selection-end="667" vertical-scroll-proportion="-4.2">
@@ -713,7 +706,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/itunes.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="16" selection-start="1478" selection-end="1478" vertical-scroll-proportion="1.6279069">
+        <state line="28" column="16" selection-start="1478" selection-end="1478" vertical-scroll-proportion="-5.675676">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/itunes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="25" selection-start="1191" selection-end="1191" vertical-scroll-proportion="0.3159609">
           <folding />
         </state>
       </provider>
