@@ -1,7 +1,23 @@
-<h2>JS/Ajax Projects</h2>
+<h2>Academic Projects</h2>
+
 <p>
-  <%= link_to 'Informer', informer_path %><br />
-  shows some data if underscored word was clicked
+  <%= link_to 'Photo Album', "http://photo-albums.heroku.com/" %><br />
+  Light and easy photo album viewer with nice pictures in it. Features paging to facilitate viewing process.
+</p>
+
+<p>
+  <%= link_to 'iTunes Catalog', itunes_path %><br />
+  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  some itunes albums and songs
+</p>
+<p>
+  <%= link_to 'Movie info', "http://vm-rottenpotatoes.heroku.com/movies" %><br />
+  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+</p>
+
+<p>
+  <%= link_to 'Ajax Tooltip Content', informer_path %><br />
+  Loads content via ajax when hovering over specific words.
 </p>
 
 <p>
@@ -10,25 +26,21 @@
 </p>
 
 <p>
-  <%= link_to 'Completer', completer_path %><br />
-  completes some words and google typed word if button is clicked
+  <%= link_to 'Ajax Auto Complete', completer_path %><br />
+  Upon typing performs text auto-complete by pulling data via ajax.
 </p>
 
 <p>
-  <%= link_to 'Itunes', itunes_path %><br />
-  some itunes albums and songs
+  <%= link_to 'RSS Reader', newsfeeder_path %><br />
+  Loads and displays articles from rss feeds. Performs ajax requests when selecting a feed.
+</p>
+<p>
+  <%= link_to 'Form Validator', validator_path %><br />
+  Performs validation as user fills out the form. Verifies different types of input data.
 </p>
 
 <p>
-  <%= link_to 'News feeder', newsfeeder_path %><br />
-  online rss feed
-</p>
-<p>
-  <%= link_to 'Validator', validator_path %><br />
-  Validates fields instantly
+  <%= link_to 'Stock Monitor', stocks_path %><br />
+  Provides information about various live stock indexes. The indexes are retrieved via ajax.
 </p>
 
-<p>
-  <%= link_to 'Stocks Picker', stocks_path %><br />
-  Shows some online stock data
-</p>
