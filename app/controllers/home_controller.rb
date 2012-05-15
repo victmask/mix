@@ -141,7 +141,6 @@ class HomeController < ApplicationController
         url = "http://www.webservicex.net/stockquote.asmx/GetQuote?symbol=" + symbol
         agent = Mechanize.new
         @xml = CGI.unescapeHTML(agent.get_file(url))
-        puts @xml
         render :xml => @xml
 
   end
@@ -168,5 +167,17 @@ class HomeController < ApplicationController
 
   def itunes
 
+  end
+
+  def itunes_xml
+    rss_url = params[:rssurl] ? params[:rssurl] : "http://itunes.apple.com/us/rss/topalbums/genre=2/limit=50/xml"
+    #   Return the RSS feed data
+        agent = Mechanize.new
+        #xml = CGI.unescapeHTML(agent.get_file(rss_url))
+    #    xml = File.read('public/feeds/' + rss_url)
+       xml = agent.get_file(rss_url)
+
+
+        render :xml => xml
   end
 end

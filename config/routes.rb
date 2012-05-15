@@ -13,6 +13,7 @@ Shoppik::Application.routes.draw do
   match '/newsfeeder', :to => 'home#news_feeder'
   match '/newsfeederxml', :to => 'home#news_feeder_xml'
   match '/itunes' => 'home#itunes'
+  match '/itunesxml' => 'home#itunes_xml'
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

@@ -4,25 +4,37 @@
 
 <link rel="stylesheet" type="text/css" href="stylesheets/itunes.css"/>
 <script type="text/javascript" src="javascripts/itunes.js"></script>
-<h1>iTunes</h1>
-<hr/>
-<form>
-  <p>Category:<br/>
-    <select onchange="javascript:loadDoc(event)">
-      <option value="">Choose Category</option>
-      <!--<option value="http://itunes.apple.com/us/rss/topalbums/genre=1/xml">Singer/Songwriter</option>-->
-      <option value="feeds/Alternative.xml">Alternative</option>
-      <option value="feeds/Blues.xml">Blues</option>
-      <option value="feeds/Jazz.xml">Jazz</option>
-      <option value="feeds/Songwriter.xml">Songwriter</option>
-      <option value="feeds/World.xml">World</option>
 
-    </select>
-  </p>
-  <p>Items:<br/>
-    <select size="5" id="topics" onchange="javascript:showDetail(event)">
-      <option value="">Choose a Category First</option>
-    </select>
-  </p>
-</form>
-<div id="details"><span></span></div>
+<span id="header">iTunes Music</span>
+<div id="menu">
+<ul class="categories" id="categories">
+  <span class="title">Genre</span>
+
+  <!--<li>Categories:</li>-->
+  <li class="category"  href="http://itunes.apple.com/us/rss/topalbums/genre=2/limit=50/xml">Blues</li>
+  <li class="category" href="http://itunes.apple.com/us/rss/topalbums/genre=3/limit=50/xml">Comedy</li>
+  <li class="category" href="http://itunes.apple.com/us/rss/topalbums/genre=4/limit=50/xml">Children's Music</li>
+  <li class="category" href="http://itunes.apple.com/us/rss/topalbums/genre=5/limit=50/xml">Classical</li>
+  <li class="category" href="http://itunes.apple.com/us/rss/topalbums/genre=6/limit=50/xml">Country</li>
+  <li class="category" href="http://itunes.apple.com/us/rss/topalbums/genre=7/limit=50/xml">Electronic</li>
+  <li class="category" href="http://itunes.apple.com/us/rss/topalbums/genre=8/limit=50/xml">Holiday</li>
+  <li class="category" href="http://itunes.apple.com/us/rss/topalbums/genre=9/limit=50/xml">Opera</li>
+  <li class="category" href="http://itunes.apple.com/us/rss/topalbums/genre=10/limit=50/xml">Singer/Songwriter</li>
+  <li class="category" href="http://itunes.apple.com/us/rss/topalbums/genre=1/limit=50/xml">Top Albums</li>
+</ul>
+</div>
+
+<div id="albums">
+<span class="title">Albums</span>
+<select size="15" id="topics" class="topics" onchange="javascript:showDetail(event)">
+  <option value="">Loading...</option>
+</select>
+</div>
+
+<div class="details">
+  <span class="title">Details</span>
+
+  <div id="details">
+  </div>
+</div>
+
