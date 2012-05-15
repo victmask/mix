@@ -32,10 +32,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="itunes.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="itunes.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/itunes.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="25" selection-start="1191" selection-end="1191" vertical-scroll-proportion="0.3159609">
+            <state line="87" column="25" selection-start="1191" selection-end="1191" vertical-scroll-proportion="-3.88">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stocks.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/home/stocks.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="77" column="13" selection-start="3562" selection-end="3562" vertical-scroll-proportion="-4.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stocks.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/stocks.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.28753993">
               <folding />
             </state>
           </provider>
@@ -100,7 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/public/stocks.xml" />
         <option value="$PROJECT_DIR$/public/javascripts/validatekit.js" />
         <option value="$PROJECT_DIR$/app/views/home/stocks.html.erb" />
         <option value="$PROJECT_DIR$/app/views/home/news_feeder.html.erb" />
@@ -116,6 +133,7 @@
         <option value="$PROJECT_DIR$/public/javascripts/itunes.js" />
         <option value="$PROJECT_DIR$/app/views/home/itunes.html.erb" />
         <option value="$PROJECT_DIR$/public/stylesheets/itunes.css" />
+        <option value="$PROJECT_DIR$/public/stocks.xml" />
       </list>
     </option>
   </component>
@@ -606,13 +624,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/home/completer.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="10" selection-start="64" selection-end="64" vertical-scroll-proportion="-3.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/validator.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="10" selection-start="484" selection-end="484" vertical-scroll-proportion="-5.1666665">
@@ -662,13 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/home/stocks.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="23" selection-start="97" selection-end="99" vertical-scroll-proportion="-3.4310954">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="38" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0">
@@ -713,7 +717,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/itunes.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="25" selection-start="1191" selection-end="1191" vertical-scroll-proportion="0.3159609">
+        <state line="87" column="25" selection-start="1191" selection-end="1191" vertical-scroll-proportion="-3.88">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/stocks.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="13" selection-start="3562" selection-end="3562" vertical-scroll-proportion="-4.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stocks.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.28753993">
           <folding />
         </state>
       </provider>
